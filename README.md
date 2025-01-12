@@ -1,4 +1,4 @@
-### Hey, im Evan
+# Hey, im Evan
 
 ## About me
 - I'm a passionate digital designer and developer
